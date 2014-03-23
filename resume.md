@@ -1,6 +1,12 @@
 Jackie Kircher
 ==============
 
+I am a hardworking person who likes to create useful things to help
+other people. My primary skillset is in server-side web development
+but I am a fast learner and am hoping to expand into front-end
+development as well. I seek out a variety of challanges in order to
+constantly improve.
+
 kircher.jackie@gmail.com
 
 [github](https://github.com/jackiekircher) |
