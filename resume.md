@@ -12,68 +12,46 @@ kircher.jackie@gmail.com
 [github](https://github.com/jackiekircher) |
 [twitter](https://twitter.com/jackiekircher)
 
-Beliefs
--------
-  * Accessibility
-  * Progressive enhancement
-  * Consistency
-  * Clear documentation and expressive git management
-  * TDD
-  * Refactoring
-  * Peer reviews
+### Beliefs
 
-Tools
------
+> I believe that the web must be accesible to everyone, including those
+> with disabilites and those without javascript.
 
-#### Languages
-  * Ruby
-  * Javascript
-  * HTML5
-  * CSS
-  * SQL
-  * JSON, YAML
+> I know that diversity and respect for others is key to producing
+> successful solutions.
 
-#### Frameworks
-  * Ruby on Rails (2.3, 3.1)
-  * Sinatra
+> I practice test driven development, clear documentation, consistent code
+> styles, and expressiveness in my commit and issue management.
 
-#### Libraries
-  * Redis
-  * Devise
-  * jQuery
-  * Kinetic.js
-  * HAML
-  * SASS
+> I want to refactor my code and have it reviewed by my peers so that I
+> make fewer mistakes and can learn.
 
-#### Testing
-  * Rspec
-  * Capybara
-  * Jasmine
+### Tools
 
-#### Version Conrol
-  * Git
+> **Languages:** Ruby, Javascript, HTML5, CSS, SQL, JSON, YAML, Markdown
 
-#### Databases
-  * MySQL
-  * PostgreSQL
-  * MongoDB
+> **Frameworks:** Ruby on Rails, Sinatra
+
+> **Libraries:** Redis, Devise, jQuery, Kinetic.js, HAML, SASS
+
+> **Testing:** Rspec, Capybara, Jasmine
+
+> **Version Conrol:** Git
+
+> **Databases:** MySQL, PostgreSQL, MongoDB
 
 
-Education & Experience
-----------------------
+### Education & Experience
 
-#### Webkite
+> #### Webkite
+> *Septmeber 2010 - May 2013*
+>
+> Rails Developer
 
-*Septmeber 2010 - May 2013*
-
-Rails Developer
-
-
-#### University of Pittsburgh
-
-*August 2005 - December 2009*
-
-BS in Computer Engineering
+> #### University of Pittsburgh
+> *August 2005 - December 2009*
+>
+> BS in Computer Engineering
 
 ### For Fun
 
