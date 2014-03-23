@@ -74,3 +74,15 @@ Rails Developer
 *August 2005 - December 2009*
 
 BS in Computer Engineering
+
+### For Fun
+
+> I believe that venturing out into other fields is not only good for
+> one's health but that it is also essential for personal growth. In addition
+> to web programming, I have also:
+
+> - drawn comics ([zerglings as cats](http://zerglingsascats.com))
+- made open source games ([Ascii Ascii Revolution](https://github.com/jackiekircher/AsciiAsciiRevolution), [VimCity](https://github.com/jackiekircher/VimCity))
+- modded video games ([Specorgi](https://github.com/jackiekircher/specorgi))
+- performed fire dancing and eating with [Steel Town Fire](http://steeltownfire.org/)
+- taught fire dancing classes at retreats
