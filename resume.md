@@ -29,15 +29,47 @@ to solve problems and learning from them.
 
 ### Education & Experience
 
-#### Webkite
+#### Webkite, Rails Developer
 *September 2010 - May 2013*
 
-Rails Developer
+Rails Developer working with MySQL and Rails 2.3-3.1. Responsible for establishing
+an acceptance test suite, upgrading Rails versions, mentoring team members to bring
+them up to speed with the codebase and best practices, and redesigning core site
+functionality.
+
+
+#### Zeta Labs, Consultant
+*March 2010 - September 2010*
+
+Worked closely with Zeta Labs to build websites for small businesses and non-profit
+organizations using Wordpress, Ruby on Rails, PHP, MYSQL, Javascript, CSS, and
+HTML. Clients include: Talking Tree Creative, Deja Blake, Dr. David McDowell,
+HealthCorps, Baum Youth Forum, Urban Wellness, and Society for Martial Arts
+Instruction.
+
+
+#### Pitt Visualization Research Lab, Researcher
+*June 2009 - September 2009*
+
+Explored several volume rendering packages including ImageVis3D and AFNI to create
+three dimensional images from brain scans. Experimented with Motif and Open Inventor
+for data visualization. Created basic interface for rendering multiple data sets
+simultaneously with VTK.
+
+
+#### Ansaldo STS USA, Software Intern Co-op
+*May 2007 - December 2008*
+
+Developed and performed tests for train scheduling optimization software in a
+distributed computing environment. Configured region boundaries and generated
+layouts for railway networks.
+
 
 #### University of Pittsburgh
 *August 2005 - December 2009*
 
 BS in Computer Engineering
+
 
 ### For Fun
 
