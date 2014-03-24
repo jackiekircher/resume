@@ -1,29 +1,19 @@
 Jackie Kircher
 ==============
 
-I am a hardworking person who likes to create useful things to help
-other people. My primary skillset is in server-side web development
-but I am a fast learner and am hoping to expand into front-end
-development as well. I seek out a variety of challenges in order to
-constantly improve.
-
 kircher.jackie@gmail.com |
 [github](https://github.com/jackiekircher) |
 [twitter](https://twitter.com/jackiekircher)
 
-### Beliefs
+As a software developer, I strive to make creative tools and solutions.
+My primary skill-set is server-side web development, but I am a fast
+learner who enjoys new challenges and I hope to expand to font-end
+development as well.
 
-  I believe that the web must be accessible to everyone, including those
-  with disabilites and those without javascript.
+I believe in accessibility, progressive enhancement, test driven development,
+and clear, expressive documentation. I believe in working with my team
+to solve problems and learning from them.
 
-  I know that diversity and respect for others is key to producing
-  successful solutions.
-
-  I practice test driven development, clear documentation, consistent code
-  styles, and expressiveness in my commit and issue management.
-
-  I want to refactor my code and have it reviewed by my peers so that I
-  make fewer mistakes and can learn.
 
 ### Tools
 
