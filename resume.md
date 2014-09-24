@@ -15,7 +15,7 @@ and clear, expressive documentation. I believe in working with my team
 to solve problems and learning from them.
 
 
-### Tools
+## Tools
 
 |                     |                                                         |
 |--------------------:|:--------------------------------------------------------|
@@ -27,9 +27,9 @@ to solve problems and learning from them.
 |       **Databases** | MySQL, PostgreSQL, MongoDB                              |
 
 
-### Education & Experience
+## Education & Experience
 
-#### Webkite, Rails Developer
+### Webkite, Rails Developer
 *September 2010 - May 2013*
 
 Rails Developer working with MySQL and Rails 2.3-3.1. Responsible for establishing
@@ -38,7 +38,7 @@ them up to speed with the codebase and best practices, and redesigning core site
 functionality.
 
 
-#### Zeta Labs, Consultant
+### Zeta Labs, Consultant
 *March 2010 - September 2010*
 
 Worked closely with Zeta Labs to build websites for small businesses and non-profit
@@ -48,7 +48,7 @@ HealthCorps, Baum Youth Forum, Urban Wellness, and Society for Martial Arts
 Instruction.
 
 
-#### Pitt Visualization Research Lab, Researcher
+### Pitt Visualization Research Lab, Researcher
 *June 2009 - September 2009*
 
 Explored several volume rendering packages including ImageVis3D and AFNI to create
@@ -57,7 +57,7 @@ for data visualization. Created basic interface for rendering multiple data sets
 simultaneously with VTK.
 
 
-#### Ansaldo STS USA, Software Intern Co-op
+### Ansaldo STS USA, Software Intern Co-op
 *May 2007 - December 2008*
 
 Developed and performed tests for train scheduling optimization software in a
@@ -65,13 +65,13 @@ distributed computing environment. Configured region boundaries and generated
 layouts for railway networks.
 
 
-#### University of Pittsburgh
+### University of Pittsburgh
 *August 2005 - December 2009*
 
 BS in Computer Engineering
 
 
-### For Fun
+## For Fun
 
   I believe that venturing out into other fields is not only good for
   one's health but that it is also essential for personal growth. In addition
