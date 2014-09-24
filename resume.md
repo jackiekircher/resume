@@ -17,7 +17,7 @@ to solve problems and learning from them.
 
 ## Tools
 
-|                     |                                                         |
+|                type | experience                                              |
 |--------------------:|:--------------------------------------------------------|
 |       **Languages** | Ruby, Javascript, HTML5, CSS, SQL, JSON, YAML, Markdown |
 |      **Frameworks** | Ruby on Rails, Sinatra                                  |
@@ -27,7 +27,7 @@ to solve problems and learning from them.
 |       **Databases** | MySQL, PostgreSQL, MongoDB                              |
 
 
-## Education & Experience
+## Education & Background
 
 ### Webkite, Rails Developer
 *September 2010 - May 2013*
