@@ -78,7 +78,9 @@ BS in Computer Engineering
   to web programming, I have also:
 
   - drawn comics ([zerglings as cats](http://zerglingsascats.com))
-  - made open source games ([Ascii Ascii Revolution](https://github.com/jackiekircher/AsciiAsciiRevolution), [VimCity](https://github.com/jackiekircher/VimCity))
+  - participated in open source game jams ([Ascii Ascii Revolution](https://github.com/jackiekircher/AsciiAsciiRevolution), [VimCity](https://github.com/jackiekircher/VimCity), [Glitch Ghost](https://github.com/jackiekircher/glitch-ghost), [OCTOVORE](https://github.com/jackiekircher/octovore), [Nepeta Cataria](https://github.com/LindseyB/nepeta-cataria))
   - modded video games ([Specorgi](https://github.com/jackiekircher/specorgi))
   - performed fire dancing and eating with [Steel Town Fire](http://steeltownfire.org/)
   - taught fire dancing classes at retreats
+  - been an active member of Pittsburgh's tech community through [Code
+    and Supply](http://www.codeandsupply.co/)
