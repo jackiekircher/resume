@@ -36,8 +36,8 @@ to solve problems and learning from them.
 
 Contracted with Builder Code Works to create business, educational, and artistic web
 applications in Rails and React. Also responsible for front-end development with a focus
-on accessibility, working with Bootstrap and creating modular CSS. Clients include:
-[ViaHero](https://www.viahero.com/), Texas A&M,
+on accessibility. Worked with both Bootstrap and creating custom modular CSS. Clients
+include: [ViaHero](https://www.viahero.com/), Texas A&M,
 [the Carnegie Library of Pittsburgh](http://www.carnegielibrary.org/),
 and [Abstractions](http://abstractions.io/).
 
