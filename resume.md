@@ -19,11 +19,23 @@ to solve problems and learning from them.
 
 ## Education & Background
 
+### Roostify
+*March 2017 - Present*
 
+Senior full stack rails developer at Roostify, a digital mortgage
+platform, working on client-configurable infrastructure. I led a
+redesign of the email configuration system for white label branding and
+helped bring the application UI up to WCAG 2.0 AA standards.
+
+As a team lead on a critical project that fundamentally extended our
+application’s capabilities, I  ensured that my team’s technical
+requirements were effectively communicated to others. I re-architected
+one of our core systems to scale with a new data model, allowing our
+system to work with a dynamic range of users.
 
 
 ### Builder Code Works, Consultant
-*April 2016 - Present*
+*April 2016 - March 2017*
 
 Contracted with Builder Code Works to create business, educational, and artistic web
 applications in Rails and React. Also responsible for front-end development with a focus
