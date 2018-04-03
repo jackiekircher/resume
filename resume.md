@@ -104,7 +104,6 @@ BS in Computer Engineering
   - drawn comics ([zerglings as cats](http://zerglingsascats.com))
   - gave a talk at [Abstractions](http://abstractions.io/schedule/detail.html#session-47) on video game hacking
   - modded video games ([Specorgi](https://github.com/jackiekircher/specorgi), [Spelunky Inventory and Radar](https://github.com/jackiekircher/spelunky-inventory-hack))
-  - performed fire dancing and eating with Steel Town Fire
-  - taught fire dancing classes at retreats
-  - been an active member of Pittsburgh's tech community through [Code
-    and Supply](http://www.codeandsupply.co/)
+  - performed with [Steel Town Fire](https://steeltownfire.com/)
+  - taught fire prop manipulation classes at [Wildfire Retreat](https://www.wildfireretreat.com/)
+  - been an active member of Pittsburgh's tech community through [Code and Supply](http://www.codeandsupply.co/)
