@@ -60,23 +60,6 @@ HealthCorps, Baum Youth Forum, Urban Wellness, and Society for Martial Arts
 Instruction.
 
 
-### Pitt Visualization Research Lab, Researcher
-*June 2009 - September 2009*
-
-Explored several volume rendering packages including ImageVis3D and AFNI to create
-three dimensional images from brain scans. Experimented with Motif and Open Inventor
-for data visualization. Created basic interface for rendering multiple data sets
-simultaneously with VTK.
-
-
-### Ansaldo STS USA, Software Intern Co-op
-*May 2007 - December 2008*
-
-Developed and performed tests for train scheduling optimization software in a
-distributed computing environment. Configured region boundaries and generated
-layouts for railway networks.
-
-
 ### University of Pittsburgh
 *August 2005 - December 2009*
 
