@@ -17,19 +17,10 @@ and clear, expressive documentation. I believe in working with my team
 to solve problems and learning from them.
 
 
-## Tools
-
-|                type | experience                                              |
-|--------------------:|:--------------------------------------------------------|
-|       **Languages** | Ruby, Javascript, HTML5, CSS, JSON, YAML, Markdown      |
-|      **Frameworks** | Ruby on Rails, Sinatra, ReactJS                         |
-|       **Libraries** | Devise, Stripe, jQuery, Axios, HAML, SASS, Bootstrap    |
-|         **Testing** | Rspec, Cucumber, Capybara                               |
-| **Version Control** | Git                                                     |
-|       **Databases** | MySQL, PostgreSQL                                       |
-
-
 ## Education & Background
+
+
+
 
 ### Builder Code Works, Consultant
 *April 2016 - Present*
@@ -64,6 +55,18 @@ Instruction.
 *August 2005 - December 2009*
 
 BS in Computer Engineering
+
+
+## Tools
+
+|                type | experience                                              |
+|--------------------:|:--------------------------------------------------------|
+|       **Languages** | Ruby, Javascript, HTML5, CSS                            |
+|      **Frameworks** | Ruby on Rails, Sinatra, React, Vue                      |
+|       **Libraries** | Devise, Stripe, jQuery, HAML, SASS, Bootstrap           |
+|         **Testing** | Rspec, Cucumber, Capybara                               |
+| **Version Control** | Git                                                     |
+|       **Databases** | MySQL, PostgreSQL                                       |
 
 
 ## For Fun
