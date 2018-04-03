@@ -3,8 +3,7 @@ Jackie Kircher
 
 me@jackiekircher.com |
 [github](https://github.com/jackiekircher) |
-[gitlab](https://gitlab.com/jackiekircher) |
-[twitter](https://twitter.com/jackiekircher)
+[gitlab](https://gitlab.com/jackiekircher)
 
 As a software developer, I strive to make creative tools and solutions.
 My primary skill-sets are server-side web development in Ruby on Rails
