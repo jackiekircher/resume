@@ -34,34 +34,48 @@ one of our core systems to scale with a new data model, allowing our
 system to work with a dynamic range of users.
 
 
-### Builder Code Works, Consultant
+### Builder Code Works
 *April 2016 - March 2017*
 
-Contracted with Builder Code Works to create business, educational, and artistic web
-applications in Rails and React. Also responsible for front-end development with a focus
-on accessibility. Worked with both Bootstrap and creating custom modular CSS. Clients
-include: [ViaHero](https://www.viahero.com/), Texas A&M,
-[the Carnegie Library of Pittsburgh](http://www.carnegielibrary.org/),
-and [Abstractions](http://abstractions.io/).
+Front end and rails developer contracting with Builder Code Works, a
+Pittsburgh web development consultancy. I worked with a small team to
+create business, educational, and artistic web applications in Rails and
+React.
 
-### Webkite, Rails Developer
+Clients include:
+
+- Texas A&M - designed the data store for and built a React application
+  for teachers to interact with an online tutoring system.
+- [The Carnegie Library of Pittsburgh](http://www.carnegielibrary.org/) -
+  designed an intuitive form to interact with installation art, focusing
+  on teaching children about HTTP requests.
+- [ViaHero](https://www.viahero.com/) - created an accessible multi-step
+  wizard to help travelers hire tour guides.
+- [Code & Supply](https://codeandsupply.co/) - architected a membership
+  system and integrated it with Stripe to support a local community
+  workspace.
+
+
+### Webkite
 *September 2010 - May 2013*
 
-Rails Developer working with MySQL, Redis and Rails. Responsible for establishing
-an acceptance test suite, upgrading Rails versions, mentoring team members to bring
-them up to speed with the codebase and best practices, and redesigning core site
-functionality.
+Rails developer at Webkite, a faceted search platform for product
+comparison. While there I was responsible for establishing an acceptance
+test suite, upgrading major Rails versions, and mentoring team members
+to bring them up to speed with the codebase and best practices. I also
+created new facets in the architecture, maintained a product import
+service, and collaborated remotely with designers to implement the
+application’s user interface.
 
-
-### Zeta Labs, Consultant
+### Zeta Labs
 *March 2010 - September 2010*
 
-Worked closely with Zeta Labs to build websites for small businesses and non-profit
-organizations using Wordpress, Ruby on Rails, PHP, MYSQL, Javascript, CSS, and
-HTML. Clients include: Talking Tree Creative, Deja Blake, Dr. David McDowell,
-HealthCorps, Baum Youth Forum, Urban Wellness, and Society for Martial Arts
-Instruction.
-
+Tech consultant for Zeta Labs, an independent design team, where I built
+websites for small businesses and non-profit organizations. The primary
+focus of my work was maintaining client sites and developing Wordpress
+plugins and themes. Clients include: Talking Tree Creative, Deja Blake,
+Dr. David McDowell, HealthCorps, Baum Youth Forum, Urban Wellness, and
+Society for Martial Arts Instruction.
 
 ### University of Pittsburgh
 *August 2005 - December 2009*
