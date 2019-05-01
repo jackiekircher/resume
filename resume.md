@@ -5,45 +5,48 @@ me@jackiekircher.com |
 [github](https://github.com/jackiekircher) |
 [gitlab](https://gitlab.com/jackiekircher)
 
-As a software developer, I strive to make creative tools and solutions.
-My primary skill-sets are server-side web development in Ruby on Rails
-and responsive front-end web page construction through modular CSS. I am
-a fast learner who enjoys new challenges and I hope to expand my
-familiarity with modern front-end frameworks.
+As a full-stack web developer, I strive to make tools and experiences
+that help others and that are available and accessible to everyone. I am
+currenty looking for a role where I have an impact on people directly.
+
+I have over 6 years of experience working with Ruby and Rails and
+semantic HTML and CSS, and I hope to expand my familiarity with modern
+front-end frameworks.
 
 I believe in accessibility, progressive enhancement, test driven development,
 and clear, expressive documentation. I believe in working with my team
 to solve problems and learning from them.
 
 
-## Education & Background
+## Experience
 
 ### Roostify
 *March 2017 - Present*
 
-Senior full stack rails developer at Roostify, a digital mortgage
-platform, working on client-configurable infrastructure. I led a
-redesign of the email configuration system for white label branding and
-helped bring the application UI up to WCAG 2.0 AA standards.
+Senior full stack Rails developer at Roostify, a digital mortgage
+platform, working on client-configurable infrastructure. As a team lead
+on a critical project that fundamentally extended our application’s
+capabilities, I ensured that my team’s technical requirements were
+effectively communicated to others. I re-architected several of our core
+systems to scale with a new data model, managing system-wide conflicts
+with other teams over a period of 12 months.
 
-As a team lead on a critical project that fundamentally extended our
-application’s capabilities, I  ensured that my team’s technical
-requirements were effectively communicated to others. I re-architected
-one of our core systems to scale with a new data model, allowing our
-system to work with a dynamic range of users.
-
+I have coordinated with designers and product managers to help advise
+and define new features, such as rebuilding the email and style
+configuration system for a white-labelled product and bringing the
+application UI up to WCAG 2.0 AA standards.
 
 ### Builder Code Works
 *April 2016 - March 2017*
 
-Front end and rails developer contracting with Builder Code Works, a
+Front end and Rails developer contracting with Builder Code Works, a
 Pittsburgh web development consultancy. I worked with a small team to
 create business, educational, and artistic web applications in Rails and
 React.
 
 Clients include:
 
-- Texas A&M - designed the data store for and built a React application
+- *Texas A&M* - designed the data store for and built a React application
   for teachers to interact with an online tutoring system.
 - [The Carnegie Library of Pittsburgh](http://www.carnegielibrary.org/) -
   designed an intuitive form to interact with installation art, focusing
