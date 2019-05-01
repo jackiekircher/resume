@@ -85,18 +85,6 @@ Society for Martial Arts Instruction.
 BS in Computer Engineering
 
 
-## Tools
-
-|                type | experience                                              |
-|--------------------:|:--------------------------------------------------------|
-|       **Languages** | Ruby, Javascript, HTML5, CSS                            |
-|      **Frameworks** | Ruby on Rails, Sinatra, React, Vue                      |
-|       **Libraries** | Devise, Stripe, jQuery, HAML, SASS, Bootstrap           |
-|         **Testing** | Rspec, Cucumber, Capybara                               |
-| **Version Control** | Git                                                     |
-|       **Databases** | MySQL, PostgreSQL                                       |
-
-
 ## For Fun
 
   I believe that venturing out into other fields is not only good for
